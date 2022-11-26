@@ -2,6 +2,10 @@
 name: 'techjavelin/iac-github-actions // template'
 description: 'Describe what this action does'
 
+branding:
+  icon: edit
+  color: green
+
 inputs:
   name:
     description: "The name"
