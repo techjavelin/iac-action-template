@@ -1,6 +1,6 @@
 # iac-action-template
 
-[![Continuous Integration | main](https://github.com/techjavelin/iac-action-terraform-lint/actions/workflows/continuous.yml/badge.svg)](https://github.com/techjavelin/iac-action-terraform-lint/actions/workflows/continuous.yml)
+[![Continuous Integration | main](https://github.com/techjavelin/iac-action-template/actions/workflows/continuous.yml/badge.svg)](https://github.com/techjavelin/iac-action-template/actions/workflows/continuous.yml)
 
 Describe what this action does here
 
